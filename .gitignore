@@ -68,3 +68,10 @@ asmotor-*.tar.gz
 asmotor_*.deb
 asmotor-*.zip
 makedeb/
+build/util
+build/xasm
+build/xlib
+build/xlink
+build/install_manifest.txt
+out
+CMaketools_ReadMe.txt
